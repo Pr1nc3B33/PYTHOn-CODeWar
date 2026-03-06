@@ -1,2 +1,2 @@
-# PYTHOn-CODeWar
+# PYTHOn-CODeWars
 CodeWars file in Python
